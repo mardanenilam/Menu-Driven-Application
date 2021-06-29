@@ -1,5 +1,5 @@
  # Menu-Driven-Application
-Operations on Singly Linear Linked List
+Operations on Singly Linear Linked List in C programming
 
 To play with this application follow the following steps:
 
